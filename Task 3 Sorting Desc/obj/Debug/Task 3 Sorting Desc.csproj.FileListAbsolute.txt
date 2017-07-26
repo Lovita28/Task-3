@@ -1,0 +1,6 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Task 3 Sorting Desc\Task 3 Sorting Desc\bin\Debug\Task 3 Sorting Desc.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Task 3 Sorting Desc\Task 3 Sorting Desc\bin\Debug\Task 3 Sorting Desc.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Task 3 Sorting Desc\Task 3 Sorting Desc\bin\Debug\Task 3 Sorting Desc.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Task 3 Sorting Desc\Task 3 Sorting Desc\obj\Debug\Task 3 Sorting Desc.csprojResolveAssemblyReference.cache
+c:\users\lovita\documents\visual studio 2015\Projects\Task 3 Sorting Desc\Task 3 Sorting Desc\obj\Debug\Task 3 Sorting Desc.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Task 3 Sorting Desc\Task 3 Sorting Desc\obj\Debug\Task 3 Sorting Desc.pdb
